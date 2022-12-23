@@ -1,0 +1,16 @@
+Answer 1:I will check if the input is value then I will return the value,
+ however if the input is a formula,
+ then I will check if the values used in the formula are present,
+ and if the values in the formula are present then I will calculate
+ the formula and return the calculated value.
+
+
+Answer2:Formulas can sometimes result in error values in addition to returning unintended results.
+ The following are some tools that you can use to find and investigate the causes of these errors and
+ determine solutions.
+
+Answer3: The user may try to break our code if the exceptions are not handled properly. The “break code” refers to presenting your code with some kind of input that it is ill-equipped to handle. There are some scenarios where user might break our code. The scenarios can be:
+•	If the code is not actively maintained.
+•	If the code does not report errors.
+•	If the code is untested.
+•	If the code is not properly version-controlled.
